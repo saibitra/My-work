@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.top-section{
+    margin: 0;
+    padding: 0; 
+    background-color:#0000 ;
+}
+img {
+    height: 20px;
+    padding-left: 100px;
+}
+
+.banner {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.nav-bar {
+    width: 100%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    align-items: center;
+    padding-left: 20px;
+    width: 50px;
+    cursor: pointer;
+
+}
+
+.nav-bar {
+    background-color: aliceblue;
+    height: 10px;
+}
+
+.nav-bar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.nav-bar ul li a {
+    color: rgb(0, 255, 242);
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.nav-bar ul li :hover {
+    width: 100%;
+    background-color: rgb(237, 28, 28);
+}

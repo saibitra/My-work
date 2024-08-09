@@ -1,0 +1,12 @@
+    <div class="banner">
+        <div class="nav-bar">
+            <img src="images/logo.jpeg" alt="" class="logo">
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">Services</a></li>
+                <li><a href="">Contact us</a></li>
+                <li><a href="">About us </a></li>
+            </ul>
+        </div>
+    </div>
+</body>
